@@ -1,5 +1,5 @@
-# robofriends
-Tutorial for React
+# robofriends-hooks
+Robofriends with Hooks!!
 To run the project: 
 
 1. Clone this repo
